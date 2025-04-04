@@ -1,0 +1,8 @@
+🔄 Navigated to Login Page
+✅ Sign-in successful!
+✅ Navigated to Policies Page
+✅ Clicked First Edit Button
+✅ Edit Popup Opened
+✅ Current Policy Name: QA TESTING
+✅ Updated Policy Name to: QA TESTING NEW
+✅ Policy Updated

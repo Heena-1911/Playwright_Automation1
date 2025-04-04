@@ -1,0 +1,6 @@
+⚠️ Unknown issue with /home/webosmotic/Documents/NARAD/sbi/SBI Policy.pdf.
+❌ Upload failed: SBI Policy.pdf
+❌ File not found in table: sbi doc.docx
+❌ File not found in table: sbi doc.docx
+⚠️ Unknown issue with /home/webosmotic/Documents/NARAD/sbi/sbi doc.docx.
+❌ Second upload failed: sbi doc.docx

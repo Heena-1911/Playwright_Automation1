@@ -1,0 +1,4 @@
+Entered Zip Code: 10003
+Auto-filled State: New York
+Auto-filled Country: New York
+✅ Auto-fill verification PASSED!

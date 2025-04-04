@@ -1,0 +1,20 @@
+export class PoliciesPage {
+    constructor(page) {
+        this.page = page;
+        this.editButton = (fileName) => 
+            page.locator(`//p[contains(text(), "${fileName}")]/ancestor::tr//button[@aria-label="Edit"]`);
+        this.nameInput = page.locator('input[name="fileName"]');
+        this.saveButton = page.locator('button:has-text("Save")');
+    }
+
+    async navigateToPolicies() {
+        await this.page.goto('https://stg.narad.io/cabinet/policies');
+    }
+
+    async editFileName(oldName, newName) {
+        const fileRow = this.editButton(oldName);
+        await fileRow.click();
+        await this.nameInput.fill(newName);
+        await this.saveButton.click();
+    }
+}

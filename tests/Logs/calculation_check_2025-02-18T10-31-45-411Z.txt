@@ -1,0 +1,255 @@
+
+########################################
+Opening account with credentials: heena.webosmotic+qa2@gmail.com
+########################################
+
+Process started at: 2025-02-18T10:31:45.412Z
+Logged in successfully.
+Fetching codes from the sheet...
+
+******************
+BASE
+******************
+Index 1: App Price: $382.97 | Sheet Price: $445.7036428229396 | Match: ❌
+Index 2: App Price: $724.13 | Sheet Price: $564.5386761957074 | Match: ❌
+Index 3: App Price: $382.97 | Sheet Price: $640.7786457833362 | Match: ❌
+Index 4: App Price: $382.97 | Sheet Price: $640.7786457833362 | Match: ❌
+Index 5: Error processing code B1-P: page.waitForTimeout: Target page, context or browser has been closed
+Index 6: Error processing code B2-E: page.fill: Target page, context or browser has been closed
+Index 7: Error processing code B2-O: page.fill: Target page, context or browser has been closed
+Index 8: Error processing code B2-L: page.fill: Target page, context or browser has been closed
+Index 9: Error processing code B2-R: page.fill: Target page, context or browser has been closed
+Index 10: Error processing code B2-P: page.fill: Target page, context or browser has been closed
+Index 11: Error processing code B3-E: page.fill: Target page, context or browser has been closed
+Index 12: Error processing code B3-O: page.fill: Target page, context or browser has been closed
+Index 13: Error processing code B3-P: page.fill: Target page, context or browser has been closed
+Index 14: Error processing code B4-E-E: page.fill: Target page, context or browser has been closed
+Index 15: Error processing code B4-O-O: page.fill: Target page, context or browser has been closed
+Index 16: Error processing code B4-L-R: page.fill: Target page, context or browser has been closed
+Index 17: Error processing code BD-1: page.fill: Target page, context or browser has been closed
+Index 18: Error processing code BD-2: page.fill: Target page, context or browser has been closed
+Index 19: Error processing code BD-3: page.fill: Target page, context or browser has been closed
+Index 20: Error processing code BD-4: page.fill: Target page, context or browser has been closed
+Index 21: Error processing code BD-5: page.fill: Target page, context or browser has been closed
+Index 22: Error processing code BD-6: page.fill: Target page, context or browser has been closed
+Index 23: Error processing code BT1-PO: page.fill: Target page, context or browser has been closed
+Index 24: Error processing code BT1-L: page.fill: Target page, context or browser has been closed
+Index 25: Error processing code BT1-R: page.fill: Target page, context or browser has been closed
+Index 26: Error processing code BT2-PO: page.fill: Target page, context or browser has been closed
+Index 27: Error processing code BT2-L: page.fill: Target page, context or browser has been closed
+Index 28: Error processing code BT2-R: page.fill: Target page, context or browser has been closed
+Index 29: Error processing code B3-2-1-1: page.fill: Target page, context or browser has been closed
+Index 30: Error processing code B3-2-1-1-1: page.fill: Target page, context or browser has been closed
+Index 31: Error processing code BT2-P: page.fill: Target page, context or browser has been closed
+Index 32: Error processing code B1-PO: page.fill: Target page, context or browser has been closed
+Index 33: Error processing code B2-PO: page.fill: Target page, context or browser has been closed
+Index 34: Error processing code BT3-P: page.fill: Target page, context or browser has been closed
+Index 35: Error processing code BT4-L: page.fill: Target page, context or browser has been closed
+Index 36: Error processing code BT4-R: page.fill: Target page, context or browser has been closed
+Index 37: Error processing code BT4: page.fill: Target page, context or browser has been closed
+Index 38: Error processing code BM-1L: page.fill: Target page, context or browser has been closed
+Index 39: Error processing code BM-1R: page.fill: Target page, context or browser has been closed
+Index 40: Error processing code BM-P: page.fill: Target page, context or browser has been closed
+Index 41: Error processing code BM-1D: page.fill: Target page, context or browser has been closed
+Index 42: Error processing code BM-2D: page.fill: Target page, context or browser has been closed
+Index 43: Error processing code BDP: page.fill: Target page, context or browser has been closed
+Index 44: Error processing code BS1-L: page.fill: Target page, context or browser has been closed
+Index 45: Error processing code BS1-R: page.fill: Target page, context or browser has been closed
+Index 46: Error processing code BS1-P: page.fill: Target page, context or browser has been closed
+Index 47: Error processing code BS2-L: page.fill: Target page, context or browser has been closed
+Index 48: Error processing code BS2-R: page.fill: Target page, context or browser has been closed
+Index 49: Error processing code BS2-P: page.fill: Target page, context or browser has been closed
+Index 50: Error processing code B1-BCL-E: page.fill: Target page, context or browser has been closed
+Index 51: Error processing code B1-BCL-O: page.fill: Target page, context or browser has been closed
+Index 52: Error processing code B1-BCL-L: page.fill: Target page, context or browser has been closed
+Index 53: Error processing code B1-BCL-P: page.fill: Target page, context or browser has been closed
+Index 54: Error processing code B1-BCR-E: page.fill: Target page, context or browser has been closed
+Index 55: Error processing code B1-BCR-O: page.fill: Target page, context or browser has been closed
+Index 56: Error processing code B1-BCR-R: page.fill: Target page, context or browser has been closed
+Index 57: Error processing code B1-BCR-P: page.fill: Target page, context or browser has been closed
+Index 58: Error processing code B90-E: page.fill: Target page, context or browser has been closed
+Index 59: Error processing code B90-O: page.fill: Target page, context or browser has been closed
+Index 60: Error processing code B90-L: page.fill: Target page, context or browser has been closed
+Index 61: Error processing code B90-R: page.fill: Target page, context or browser has been closed
+Index 62: Error processing code B45-E: page.fill: Target page, context or browser has been closed
+Index 63: Error processing code B45-O: page.fill: Target page, context or browser has been closed
+Index 64: Error processing code B45-L: page.fill: Target page, context or browser has been closed
+Index 65: Error processing code B45-R: page.fill: Target page, context or browser has been closed
+Index 66: No valid code found. Skipping.
+
+******************
+WALL
+******************
+Index 67: Error processing code W1-E: page.fill: Target page, context or browser has been closed
+Index 68: Error processing code W1-O: page.fill: Target page, context or browser has been closed
+Index 69: Error processing code W1-L: page.fill: Target page, context or browser has been closed
+Index 70: Error processing code W1-R: page.fill: Target page, context or browser has been closed
+Index 71: Error processing code W1-P: page.fill: Target page, context or browser has been closed
+Index 72: Error processing code W1-T: page.fill: Target page, context or browser has been closed
+Index 73: Error processing code W2-E-E: page.fill: Target page, context or browser has been closed
+Index 74: Error processing code W2-O-O: page.fill: Target page, context or browser has been closed
+Index 75: Error processing code W2-L-O: page.fill: Target page, context or browser has been closed
+Index 76: Error processing code W2-O-R: page.fill: Target page, context or browser has been closed
+Index 77: Error processing code W2-P-O: page.fill: Target page, context or browser has been closed
+Index 78: Error processing code W2-O-P: page.fill: Target page, context or browser has been closed
+Index 79: Error processing code W2-L-R: page.fill: Target page, context or browser has been closed
+Index 80: Error processing code W2-P-R: page.fill: Target page, context or browser has been closed
+Index 81: Error processing code W2-L-P: page.fill: Target page, context or browser has been closed
+
+******************
+EXTRAS
+******************
+Index 82: Error processing code DELETED: page.fill: Target page, context or browser has been closed
+
+******************
+WALL
+******************
+Index 83: Error processing code W3-E-E-E: page.fill: Target page, context or browser has been closed
+Index 84: Error processing code W3-O-O-O: page.fill: Target page, context or browser has been closed
+Index 85: Error processing code W3-L-L-R: page.fill: Target page, context or browser has been closed
+Index 86: Error processing code W3-L-R-R: page.fill: Target page, context or browser has been closed
+Index 87: Error processing code W3-L-P-R: page.fill: Target page, context or browser has been closed
+Index 89: Error processing code W1-BCL-E: page.fill: Target page, context or browser has been closed
+Index 90: Error processing code W1-BCL-O: page.fill: Target page, context or browser has been closed
+Index 91: Error processing code W1-BCL-L: page.fill: Target page, context or browser has been closed
+Index 92: Error processing code W1-BCL-P: page.fill: Target page, context or browser has been closed
+Index 93: Error processing code W1-BCR-E: page.fill: Target page, context or browser has been closed
+Index 94: Error processing code W1-BCR-O: page.fill: Target page, context or browser has been closed
+Index 95: Error processing code W1-BCR-R: page.fill: Target page, context or browser has been closed
+Index 96: Error processing code W1-BCR-P: page.fill: Target page, context or browser has been closed
+Index 97: Error processing code W90-E: page.fill: Target page, context or browser has been closed
+Index 98: Error processing code W90-O: page.fill: Target page, context or browser has been closed
+Index 99: Error processing code W90-L: page.fill: Target page, context or browser has been closed
+Index 100: Error processing code W90-R: page.fill: Target page, context or browser has been closed
+Index 101: Error processing code W45-E: page.fill: Target page, context or browser has been closed
+Index 102: Error processing code W45-O: page.fill: Target page, context or browser has been closed
+Index 103: Error processing code W45-L: page.fill: Target page, context or browser has been closed
+Index 104: Error processing code W45-R: page.fill: Target page, context or browser has been closed
+Index 105: No valid code found. Skipping.
+
+******************
+TALL
+******************
+Index 106: Error processing code T1-E: page.fill: Target page, context or browser has been closed
+Index 107: Error processing code T1-O: page.fill: Target page, context or browser has been closed
+Index 108: Error processing code T1-L: page.fill: Target page, context or browser has been closed
+Index 109: Error processing code T1-R: page.fill: Target page, context or browser has been closed
+Index 110: Error processing code T1-P: page.fill: Target page, context or browser has been closed
+Index 111: Error processing code T2-E: page.fill: Target page, context or browser has been closed
+Index 112: Error processing code T2-O: page.fill: Target page, context or browser has been closed
+Index 113: Error processing code T2-L: page.fill: Target page, context or browser has been closed
+Index 114: Error processing code T2-R: page.fill: Target page, context or browser has been closed
+Index 115: Error processing code T2-P: page.fill: Target page, context or browser has been closed
+Index 116: Error processing code TX-O: page.fill: Target page, context or browser has been closed
+Index 117: Error processing code TX-L: page.fill: Target page, context or browser has been closed
+Index 118: Error processing code TX-R: page.fill: Target page, context or browser has been closed
+Index 119: Error processing code TX-P: page.fill: Target page, context or browser has been closed
+Index 120: Error processing code T2-L-L: page.fill: Target page, context or browser has been closed
+Index 121: Error processing code T2-R-R: page.fill: Target page, context or browser has been closed
+Index 122: Error processing code T2-P-P: page.fill: Target page, context or browser has been closed
+Index 123: Error processing code T3-E: page.fill: Target page, context or browser has been closed
+Index 123: Error processing code T3-O: page.fill: Target page, context or browser has been closed
+Index 124: Error processing code T3-L-L-L: page.fill: Target page, context or browser has been closed
+Index 125: Error processing code T3-R-R-R: page.fill: Target page, context or browser has been closed
+Index 126: Error processing code T3-P-P-P: page.fill: Target page, context or browser has been closed
+Index 127: Error processing code T3-L-O-L: page.fill: Target page, context or browser has been closed
+Index 128: Error processing code T3-R-O-R: page.fill: Target page, context or browser has been closed
+Index 129: Error processing code T3-P-O-P: page.fill: Target page, context or browser has been closed
+Index 131: Error processing code T2-E-D1: page.fill: Target page, context or browser has been closed
+Index 131: Error processing code T2-O-D1: page.fill: Target page, context or browser has been closed
+Index 132: Error processing code T2-L-D1: page.fill: Target page, context or browser has been closed
+Index 133: Error processing code T2-R-D1: page.fill: Target page, context or browser has been closed
+Index 134: Error processing code T2-P-D1: page.fill: Target page, context or browser has been closed
+Index 135: Error processing code T2-E-D2: page.fill: Target page, context or browser has been closed
+Index 135: Error processing code T2-O-D2: page.fill: Target page, context or browser has been closed
+Index 136: Error processing code T2-L-D2: page.fill: Target page, context or browser has been closed
+Index 137: Error processing code T2-R-D2: page.fill: Target page, context or browser has been closed
+Index 138: Error processing code T2-P-D2: page.fill: Target page, context or browser has been closed
+Index 139: Error processing code T2-E-D3: page.fill: Target page, context or browser has been closed
+Index 139: Error processing code T2-O-D3: page.fill: Target page, context or browser has been closed
+Index 140: Error processing code T2-L-D3: page.fill: Target page, context or browser has been closed
+Index 141: Error processing code T2-R-D3: page.fill: Target page, context or browser has been closed
+Index 142: Error processing code T2-P-D3: page.fill: Target page, context or browser has been closed
+Index 143: Error processing code T2-E-D4: page.fill: Target page, context or browser has been closed
+Index 143: Error processing code T2-O-D4: page.fill: Target page, context or browser has been closed
+Index 144: Error processing code T2-L-D4: page.fill: Target page, context or browser has been closed
+Index 145: Error processing code T2-R-D4: page.fill: Target page, context or browser has been closed
+Index 146: Error processing code T2-P-D4: page.fill: Target page, context or browser has been closed
+Index 147: Error processing code T2-E-D5: page.fill: Target page, context or browser has been closed
+Index 147: Error processing code T2-O-D5: page.fill: Target page, context or browser has been closed
+Index 148: Error processing code T2-L-D5: page.fill: Target page, context or browser has been closed
+Index 149: Error processing code T2-R-D5: page.fill: Target page, context or browser has been closed
+Index 150: Error processing code T2-P-D5: page.fill: Target page, context or browser has been closed
+Index 151: Error processing code T2-E-D6: page.fill: Target page, context or browser has been closed
+Index 151: Error processing code T2-O-D6: page.fill: Target page, context or browser has been closed
+Index 152: Error processing code T2-L-D6: page.fill: Target page, context or browser has been closed
+Index 153: Error processing code T2-R-D6: page.fill: Target page, context or browser has been closed
+Index 154: Error processing code T2-P-D6: page.fill: Target page, context or browser has been closed
+Index 156: Error processing code T3-E-D1-E: page.fill: Target page, context or browser has been closed
+Index 156: Error processing code T3-O-D1-O: page.fill: Target page, context or browser has been closed
+Index 157: Error processing code T3-L-D1-L: page.fill: Target page, context or browser has been closed
+Index 158: Error processing code T3-R-D1-R: page.fill: Target page, context or browser has been closed
+Index 159: Error processing code T3-P-D1-P: page.fill: Target page, context or browser has been closed
+Index 160: Error processing code T3-E-D2-E: page.fill: Target page, context or browser has been closed
+Index 160: Error processing code T3-O-D2-O: page.fill: Target page, context or browser has been closed
+Index 161: Error processing code T3-L-D2-L: page.fill: Target page, context or browser has been closed
+Index 162: Error processing code T3-R-D2-R: page.fill: Target page, context or browser has been closed
+Index 163: Error processing code T3-P-D2-P: page.fill: Target page, context or browser has been closed
+Index 164: Error processing code T3-E-D3-E: page.fill: Target page, context or browser has been closed
+Index 164: Error processing code T3-O-D3-O: page.fill: Target page, context or browser has been closed
+Index 165: Error processing code T3-L-D3-L: page.fill: Target page, context or browser has been closed
+Index 166: Error processing code T3-R-D3-R: page.fill: Target page, context or browser has been closed
+Index 167: Error processing code T3-P-D3-P: page.fill: Target page, context or browser has been closed
+Index 169: Error processing code T3-L-D1-E: page.fill: Target page, context or browser has been closed
+Index 169: Error processing code T3-L-D1-O: page.fill: Target page, context or browser has been closed
+Index 170: Error processing code T3-R-D1-E: page.fill: Target page, context or browser has been closed
+Index 170: Error processing code T3-R-D1-O: page.fill: Target page, context or browser has been closed
+Index 171: Error processing code T3-P-D1-E: page.fill: Target page, context or browser has been closed
+Index 171: Error processing code T3-P-D1-O: page.fill: Target page, context or browser has been closed
+Index 172: Error processing code T3-L-D2-E: page.fill: Target page, context or browser has been closed
+Index 172: Error processing code T3-L-D2-O: page.fill: Target page, context or browser has been closed
+Index 173: Error processing code T3-R-D2-E: page.fill: Target page, context or browser has been closed
+Index 173: Error processing code T3-R-D2-O: page.fill: Target page, context or browser has been closed
+Index 174: Error processing code T3-P-D2-E: page.fill: Target page, context or browser has been closed
+Index 174: Error processing code T3-P-D2-O: page.fill: Target page, context or browser has been closed
+Index 175: Error processing code T3-L-D3-E: page.fill: Target page, context or browser has been closed
+Index 175: Error processing code T3-L-D3-O: page.fill: Target page, context or browser has been closed
+Index 176: Error processing code T3-R-D3-E: page.fill: Target page, context or browser has been closed
+Index 176: Error processing code T3-R-D3-O: page.fill: Target page, context or browser has been closed
+Index 177: Error processing code T3-P-D3-E: page.fill: Target page, context or browser has been closed
+Index 177: Error processing code T3-P-D3-O: page.fill: Target page, context or browser has been closed
+Index 179: Error processing code T3-E-D1-L: page.fill: Target page, context or browser has been closed
+Index 179: Error processing code T3-O-D1-L: page.fill: Target page, context or browser has been closed
+Index 180: Error processing code T3-E-D1-R: page.fill: Target page, context or browser has been closed
+Index 180: Error processing code T3-O-D1-R: page.fill: Target page, context or browser has been closed
+Index 181: Error processing code T3-E-D1-P: page.fill: Target page, context or browser has been closed
+Index 181: Error processing code T3-O-D1-P: page.fill: Target page, context or browser has been closed
+Index 182: Error processing code T3-E-D2-L: page.fill: Target page, context or browser has been closed
+Index 182: Error processing code T3-O-D2-L: page.fill: Target page, context or browser has been closed
+Index 183: Error processing code T3-E-D2-R: page.fill: Target page, context or browser has been closed
+Index 183: Error processing code T3-O-D2-R: page.fill: Target page, context or browser has been closed
+Index 184: Error processing code T3-E-D2-P: page.fill: Target page, context or browser has been closed
+Index 184: Error processing code T3-O-D2-P: page.fill: Target page, context or browser has been closed
+Index 185: Error processing code T3-E-D3-L: page.fill: Target page, context or browser has been closed
+Index 185: Error processing code T3-O-D3-L: page.fill: Target page, context or browser has been closed
+Index 186: Error processing code T3-E-D3-R: page.fill: Target page, context or browser has been closed
+Index 186: Error processing code T3-O-D3-R: page.fill: Target page, context or browser has been closed
+Index 187: Error processing code T3-E-D3-P: page.fill: Target page, context or browser has been closed
+Index 187: Error processing code T3-O-D3-P: page.fill: Target page, context or browser has been closed
+Index 188: Error processing code T1-PO: page.fill: Target page, context or browser has been closed
+Index 189: Error processing code T2-PO-D1: page.fill: Target page, context or browser has been closed
+Index 190: Error processing code T2-PO-D2: page.fill: Target page, context or browser has been closed
+Index 191: Error processing code T2-PO-D3: page.fill: Target page, context or browser has been closed
+Index 192: Error processing code T2-PO-D4: page.fill: Target page, context or browser has been closed
+Index 193: Error processing code T2-PO-D5: page.fill: Target page, context or browser has been closed
+Index 194: Error processing code T2-PO-D6: page.fill: Target page, context or browser has been closed
+Index 195: Error processing code T2-E-PO: page.fill: Target page, context or browser has been closed
+Index 195: Error processing code T2-O-PO: page.fill: Target page, context or browser has been closed
+Index 196: Error processing code T2-L-PO: page.fill: Target page, context or browser has been closed
+Index 197: Error processing code T2-R-PO: page.fill: Target page, context or browser has been closed
+Index 198: Error processing code T2-P-PO: page.fill: Target page, context or browser has been closed
+Index : No valid code found. Skipping.
+Unexpected error: code.startsWith is not a function
+
+Process ended at: 2025-02-18T10:32:25.302Z
+Total time taken: 39.89 seconds

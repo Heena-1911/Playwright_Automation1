@@ -1,0 +1,7 @@
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/SBI Policy.pdf
+✅ Success: /home/webosmotic/Documents/NARAD/sbi/SBI Policy.pdf uploaded.
+✅ Verified: SBI Policy.pdf in table.
+✅ Preview opened for: SBI Policy.pdf
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/sbi doc.docx
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/sbi new1.xlsx
+✅ Success: /home/webosmotic/Documents/NARAD/sbi/sbi new1.xlsx uploaded.

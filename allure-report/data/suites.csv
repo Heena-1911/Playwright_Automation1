@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3972","Register","","Mon Feb 17 13:03:23 IST 2025","passed","Mon Feb 17 13:03:27 IST 2025","","Register.spec.js","",""
+"","11953","Test3","","Mon Feb 17 13:04:21 IST 2025","failed","Mon Feb 17 13:04:33 IST 2025","","Reporters.spec.js","",""
+"","1521","Test2","","Mon Feb 17 13:04:20 IST 2025","passed","Mon Feb 17 13:04:21 IST 2025","","Reporters.spec.js","",""
+"","5280","Baruregister","","Mon Feb 17 13:03:23 IST 2025","failed","Mon Feb 17 13:03:28 IST 2025","","Baruregister.spec.js","",""
+"","1851","Test1","","Mon Feb 17 13:04:18 IST 2025","passed","Mon Feb 17 13:04:19 IST 2025","","Reporters.spec.js","",""

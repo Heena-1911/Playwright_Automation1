@@ -1,0 +1,3 @@
+⚠️ Unknown issue with /home/webosmotic/Documents/NARAD/sbi/SBI Policy.pdf.
+❌ Skipping verification for /home/webosmotic/Documents/NARAD/sbi/SBI Policy.pdf as it failed to upload.
+❌ File not found in table: sbi doc.docx

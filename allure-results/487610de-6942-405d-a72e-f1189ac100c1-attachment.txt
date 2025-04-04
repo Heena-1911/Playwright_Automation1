@@ -1,0 +1,3 @@
+✅ Navigated to Login Page
+✅ Logged in successfully
+✅ Navigated to Policies Page

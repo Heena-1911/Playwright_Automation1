@@ -1,0 +1,76 @@
+❌ Failed to click the Edit button: locator.waitFor: Error: strict mode violation: locator('//div[@aria-label=\'Edit\']/button') resolved to 20 elements:
+    1) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '1 QA TESTING Heena QAa Heena' }).getByLabel('Edit').getByRole('button')
+    2) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '2 folder3 Heena QAa Heena QAa' }).getByLabel('Edit').getByRole('button')
+    3) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '3 folder2 Heena QAa Heena QAa' }).getByLabel('Edit').getByRole('button')
+    4) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '4 Manager2 Gerg Rechard Gerg' }).getByLabel('Edit').getByRole('button')
+    5) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '5 Reminder folder Heena QAa' }).getByLabel('Edit').getByRole('button')
+    6) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '6 pdf SBI Policy(26) Heena' }).getByLabel('Edit').getByRole('button')
+    7) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '7 pdf Task_List-03-17-2025 (4' }).getByLabel('Edit').getByRole('button')
+    8) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '8 pdf my file for compliance' }).getByLabel('Edit').getByRole('button')
+    9) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '9 pdf regulatory compliance' }).getByLabel('Edit').getByRole('button')
+    10) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '10 pdf modern slavery' }).getByLabel('Edit').getByRole('button')
+    ...
+
+Call log:
+  - waiting for locator('//div[@aria-label=\'Edit\']/button') to be visible
+
+    at /home/webosmotic/Documents/Playwright_Automation/tests/EditPolicyTest.spec.js:28:26 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@16',
+    location: {
+      file: '/home/webosmotic/Documents/Playwright_Automation/tests/EditPolicyTest.spec.js',
+      line: 28,
+      column: 26,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: "locator.waitFor(//div[@aria-label='Edit']/button)",
+    apiName: 'locator.waitFor',
+    params: {
+      selector: "//div[@aria-label='Edit']/button",
+      strict: true,
+      omitReturnValue: true,
+      state: 'visible',
+      timeout: 10000
+    },
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1742971007115,
+    error: {
+      message: "Error: locator.waitFor: Error: strict mode violation: locator('//div[@aria-label=\\'Edit\\']/button') resolved to 20 elements:\n" +
+        `    1) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '1 QA TESTING Heena QAa Heena' }).getByLabel('Edit').getByRole('button')\n` +
+        `    2) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '2 folder3 Heena QAa Heena QAa' }).getByLabel('Edit').getByRole('button')\n` +
+        `    3) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '3 folder2 Heena QAa Heena QAa' }).getByLabel('Edit').getByRole('button')\n` +
+        `    4) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '4 Manager2 Gerg Rechard Gerg' }).getByLabel('Edit').getByRole('button')\n` +
+        `    5) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '5 Reminder folder Heena QAa' }).getByLabel('Edit').getByRole('button')\n` +
+        `    6) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '6 pdf SBI Policy(26) Heena' }).getByLabel('Edit').getByRole('button')\n` +
+        `    7) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '7 pdf Task_List-03-17-2025 (4' }).getByLabel('Edit').getByRole('button')\n` +
+        `    8) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '8 pdf my file for compliance' }).getByLabel('Edit').getByRole('button')\n` +
+        `    9) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '9 pdf regulatory compliance' }).getByLabel('Edit').getByRole('button')\n` +
+        `    10) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '10 pdf modern slavery' }).getByLabel('Edit').getByRole('button')\n` +
+        '    ...\n' +
+        '\n' +
+        'Call log:\n' +
+        "\x1B[2m  - waiting for locator('//div[@aria-label=\\'Edit\\']/button') to be visible\x1B[22m\n",
+      stack: "Error: locator.waitFor: Error: strict mode violation: locator('//div[@aria-label=\\'Edit\\']/button') resolved to 20 elements:\n" +
+        `    1) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '1 QA TESTING Heena QAa Heena' }).getByLabel('Edit').getByRole('button')\n` +
+        `    2) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '2 folder3 Heena QAa Heena QAa' }).getByLabel('Edit').getByRole('button')\n` +
+        `    3) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '3 folder2 Heena QAa Heena QAa' }).getByLabel('Edit').getByRole('button')\n` +
+        `    4) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '4 Manager2 Gerg Rechard Gerg' }).getByLabel('Edit').getByRole('button')\n` +
+        `    5) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '5 Reminder folder Heena QAa' }).getByLabel('Edit').getByRole('button')\n` +
+        `    6) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '6 pdf SBI Policy(26) Heena' }).getByLabel('Edit').getByRole('button')\n` +
+        `    7) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '7 pdf Task_List-03-17-2025 (4' }).getByLabel('Edit').getByRole('button')\n` +
+        `    8) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '8 pdf my file for compliance' }).getByLabel('Edit').getByRole('button')\n` +
+        `    9) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '9 pdf regulatory compliance' }).getByLabel('Edit').getByRole('button')\n` +
+        `    10) <button tabindex="0" type="button" class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1hbfvik">…</button> aka getByRole('row', { name: '10 pdf modern slavery' }).getByLabel('Edit').getByRole('button')\n` +
+        '    ...\n' +
+        '\n' +
+        'Call log:\n' +
+        "\x1B[2m  - waiting for locator('//div[@aria-label=\\'Edit\\']/button') to be visible\x1B[22m\n" +
+        '\n' +
+        '    at /home/webosmotic/Documents/Playwright_Automation/tests/EditPolicyTest.spec.js:28:26',
+      cause: undefined
+    }
+  }
+}

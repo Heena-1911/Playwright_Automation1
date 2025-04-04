@@ -1,0 +1,18 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="9.974932">
+<testsuite name="loginBaruMyAcc.spec.js" timestamp="2025-03-27T11:15:46.468Z" hostname="" tests="1" failures="0" skipped="0" time="8.773" errors="0">
+<testcase name="Complete Flow: My Account, Billing, and Shipping Auto-Fill Verification" classname="loginBaruMyAcc.spec.js" time="8.773">
+<system-out>
+<![CDATA[Unsaved Changes popup detected. Clicking 'Save and Leave'...
+Billing State: New York
+Billing Country: New York
+
+[[ATTACHMENT|test-results/loginBaruMyAcc-Complete-Fl-30a99-ping-Auto-Fill-Verification/test-finished-1.png]]
+
+[[ATTACHMENT|test-results/loginBaruMyAcc-Complete-Fl-30a99-ping-Auto-Fill-Verification/video.webm]]
+
+[[ATTACHMENT|test-results/loginBaruMyAcc-Complete-Fl-30a99-ping-Auto-Fill-Verification/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

@@ -1,0 +1,15 @@
+🔄 Navigated to Login Page
+✅ Sign-in successful!
+✅ Navigated to Policies Page
+✅ Clicked First Edit Button
+✅ Edit Popup Opened
+✅ Updated Policy Name to: Manager2e NEW
+✅ Clicked Update Button
+✅ Edit Success Message: Folder name updated successfully
+✅ Clicked First Delete Button
+✅ Delete Confirmation Dialog Opened
+🛑 Delete Confirmation Message: Are you sure you want to delete Manager2e NEW?
+
+
+✅ Clicked 'Yes' in Confirmation Dialog
+✅ Delete Success Message: Folder name updated successfully

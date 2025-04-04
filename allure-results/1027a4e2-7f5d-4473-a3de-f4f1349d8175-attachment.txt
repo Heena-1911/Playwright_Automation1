@@ -1,0 +1,6 @@
+🔄 Navigated to Login Page
+🔑 Attempting to log in...
+✅ Sign-in successful!
+✅ Logged in successfully
+✅ Navigated to Policies Page
+✅ File found: Citadel National Bank

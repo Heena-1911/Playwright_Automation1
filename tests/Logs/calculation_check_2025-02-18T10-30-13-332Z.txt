@@ -1,0 +1,6 @@
+
+########################################
+Opening account with credentials: heena.webosmotic+qa2@gmail.com
+########################################
+
+Process started at: 2025-02-18T10:30:13.333Z

@@ -1,0 +1,6 @@
+🔄 Navigated to Login Page
+🔑 Attempting to log in...
+✅ Sign-in successful!
+✅ Navigated to Policies Page
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/SBI Policy.pdf
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/SBI Policy.pdf

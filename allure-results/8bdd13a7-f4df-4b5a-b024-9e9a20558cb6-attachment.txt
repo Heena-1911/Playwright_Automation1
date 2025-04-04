@@ -1,0 +1,4 @@
+❌ Test failed: page.fill: Test timeout of 30000ms exceeded.
+Call log:
+  - waiting for locator('input[placeholder="Company Domain Name"]')
+

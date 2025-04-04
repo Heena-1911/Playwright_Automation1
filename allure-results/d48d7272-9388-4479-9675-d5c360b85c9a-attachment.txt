@@ -1,0 +1,40 @@
+🔄 Navigated to Login Page
+🔑 Attempting to log in...
+✅ Sign-in successful!
+✅ Navigated to Policies Page
+🔹 Trying to upload: SBI Policy.pdf
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/SBI Policy.pdf
+🔹 Trying to upload: sbi doc.docx
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/sbi doc.docx
+✅ File uploaded: /home/webosmotic/Documents/NARAD/sbi/sbi doc.docx
+✅ Upload successful: sbi doc.docx
+📋 Files in table: [
+  'All',                  '#',             'Name',
+  'Added By',             'Last Modified', 'AI Enabled',
+  'Action',               '1',             'Manager2',
+  '21 Mar 2025 04:54 PM', '2',             'Reminder folder',
+  '21 Mar 2025 03:21 PM', '3',             'sbi doc(26)',
+  '25 Mar 2025 02:25 PM', '4',             'SBI Policy(25)',
+  '25 Mar 2025 02:25 PM', '5',             'sbi doc(25)',
+  '25 Mar 2025 02:21 PM', '6',             'sbi doc(24)',
+  '25 Mar 2025 02:21 PM', '7',             'SBI Policy(24)',
+  '25 Mar 2025 02:21 PM', '8',             'sbi doc(23)',
+  '25 Mar 2025 02:16 PM', '9',             'sbi doc(22)',
+  '25 Mar 2025 02:15 PM', '10',            'SBI Policy(23)',
+  '25 Mar 2025 02:15 PM', '11',            'sbi doc(21)',
+  '25 Mar 2025 12:57 PM', '12',            'sbi doc(20)',
+  '25 Mar 2025 12:57 PM', '13',            'SBI Policy(22)',
+  '25 Mar 2025 12:57 PM', '14',            'sbi doc(19)',
+  '25 Mar 2025 12:57 PM', '15',            'SBI Policy(21)',
+  '25 Mar 2025 12:57 PM', '16',            'sbi doc(18)',
+  '25 Mar 2025 12:50 PM', '17',            'sbi doc(17)',
+  '25 Mar 2025 12:50 PM', '18',            'SBI Policy(20)',
+  '25 Mar 2025 12:50 PM', '19',            'sbi doc(16)',
+  '25 Mar 2025 12:46 PM', '20',            'SBI Policy(19)',
+  '25 Mar 2025 12:46 PM', 'Row Per Page',  '20',
+  '1-20 of 68'
+]
+❌ File not found: sbi doc.docx
+🔄 Re-uploading a second batch of files...
+🔹 Trying to upload again: sbi doc.docx
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/sbi doc.docx

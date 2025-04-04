@@ -1,0 +1,5 @@
+✅ Sign-in complete. Ready to explore?
+✅ Navigated to Policies Page
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/SBI Policy.pdf
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/sbi doc.docx
+📤 Uploading: /home/webosmotic/Documents/NARAD/sbi/sbi new1.xlsx
